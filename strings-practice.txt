@@ -1,0 +1,63 @@
+Tạo một mảng names chứa các chuỗi tên như sau: "Anna", "Bob", "Charlie", "David". Hãy kiểm tra xem:
+	1.	Có ít nhất một tên nào bắt đầu bằng chữ cái “A” hay không?
+	2.	Nếu không, in ra danh sách tất cả các tên không bắt đầu bằng chữ “A”.
+
+
+Bài tập 1:
+Tạo một chuỗi sentence = "JavaScript is a versatile programming language". Hãy:
+	1.	Đếm số lượng từ trong chuỗi.
+	2.	Tìm từ có độ dài lớn nhất trong chuỗi.
+
+
+Bài tập 2:
+Tạo một mảng fruits = ["apple", "orange", "banana", "kiwi", "grape"]. Hãy:
+	1.	Kiểm tra xem có từ nào kết thúc bằng chữ “e” hay không.
+	2.	Tìm tất cả các từ có độ dài bằng 5 ký tự.
+
+
+Bài tập 3:
+Tạo một chuỗi password = "P@ssw0rd123". Hãy:
+	1.	Kiểm tra xem chuỗi có chứa cả chữ in hoa, chữ thường và số hay không.
+	2.	Nếu không thỏa mãn, in ra lý do không thỏa mãn (ví dụ: thiếu chữ in hoa).   
+
+
+Bài tập 4:
+Tạo một mảng cities = ["Hanoi", "New York", "Tokyo", "Paris", "London"]. Hãy:
+	1.	Tìm thành phố có tên ngắn nhất.
+	2.	Đếm số lượng thành phố có tên bắt đầu bằng ký tự “T”.   
+
+
+Bài tập 5:
+Tạo một chuỗi text = "hello world, welcome to JavaScript". Hãy:
+	1.	Đếm số lần xuất hiện của chữ cái “o” trong chuỗi.
+	2.	Thay tất cả các ký tự “o” bằng ký tự “*”.  
+
+
+Bài tập 6:
+Tạo một mảng animals = ["cat", "dog", "elephant", "tiger", "lion"]. Hãy:
+	1.	Tìm tất cả các từ có chứa chữ cái “t”.
+	2.	Sắp xếp các từ trong mảng theo thứ tự tăng dần độ dài.
+
+
+Bài tập 7:
+Tạo một mảng colors = ["red", "blue", "green", "yellow", "purple"]. Hãy:
+	1.	Tìm tất cả các từ có độ dài lớn hơn 4 ký tự.
+	2.	Kiểm tra xem tất cả các từ trong mảng có chứa chữ cái “e” hay không.
+
+
+Bài tập 8:
+Tạo một chuỗi quote = "To be or not to be, that is the question". Hãy:
+	1.	Đếm số lần xuất hiện của từ “be”.
+	2.	Tách chuỗi thành từng từ và lưu chúng vào một mảng.
+
+
+Bài tập 9:
+Tạo một chuỗi username = "JohnDoe123". Hãy:
+	1.	Kiểm tra xem chuỗi có bắt đầu bằng một chữ cái viết hoa hay không.
+	2.	Kiểm tra xem chuỗi có chứa ký tự đặc biệt nào hay không.
+
+
+Bài tập 10:
+Tạo một mảng books = ["War and Peace", "Pride and Prejudice", "1984", "The Great Gatsby", "Moby Dick"]. Hãy:
+	1.	Tìm tất cả các tựa sách chứa chữ “and”.
+	2.	Kiểm tra xem có tựa sách nào chỉ có một từ không.
