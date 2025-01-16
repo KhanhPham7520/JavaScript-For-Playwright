@@ -1,0 +1,73 @@
+Bài tập 1: Tìm số lớn nhất
+Tạo một mảng số nguyên numbers = [3, 7, 2, 9, 4]. Hãy:
+(x)	1.	Tìm số lớn nhất trong mảng. (x)
+	2.	Kiểm tra xem số lớn nhất có phải là số chẵn hay không. 
+
+Bài tập 2: Tính tổng các số lẻ
+Tạo một mảng số nguyên numbers = [10, 15, 20, 25, 30]. Hãy:
+(x)	1.	Tính tổng của tất cả các số lẻ trong mảng.
+(x)	2.	Đếm xem có bao nhiêu số lẻ trong mảng.
+
+
+Bài tập 3: Đảo ngược số
+Viết một hàm nhận vào một số nguyên dương n. Hãy:
+	1.	Đảo ngược chữ số của số nguyên đó.
+	•	Ví dụ: n = 123 → kết quả: 321.
+
+
+Bài tập 4: Kiểm tra số nguyên tố
+(x) Viết một hàm nhận vào một số nguyên n. Hãy kiểm tra xem n có phải là số nguyên tố hay không.
+
+
+Bài tập 5: Tìm ước số chung lớn nhất (GCD)
+Viết một hàm nhận vào hai số nguyên dương a và b. Hãy tìm ước số chung lớn nhất của chúng.
+
+
+Bài tập 6: FizzBuzz
+Viết một chương trình in ra các số từ 1 đến 100. Nhưng:
+	•	Nếu số đó chia hết cho 3, in ra "Fizz".
+	•	Nếu số đó chia hết cho 5, in ra "Buzz".
+	•	Nếu số đó chia hết cho cả 3 và 5, in ra "FizzBuzz".
+
+
+Bài tập 7: Tìm phần tử duy nhất
+Tạo một mảng số nguyên numbers = [1, 1, 2, 2, 3, 4, 4]. Hãy tìm phần tử xuất hiện duy nhất trong mảng.
+
+
+Bài tập 8: Sắp xếp mảng
+Tạo một mảng numbers = [5, 2, 9, 1, 5, 6]. Hãy:
+	1.	Sắp xếp mảng theo thứ tự tăng dần.
+	2.	Sắp xếp mảng theo thứ tự giảm dần.
+
+
+Bài tập 9: Chuỗi đối xứng (Palindrome)
+Viết một hàm nhận vào một chuỗi str. Hãy kiểm tra xem chuỗi đó có phải là chuỗi đối xứng hay không.
+	•	Ví dụ: "radar" là chuỗi đối xứng.
+
+
+Bài tập 10: Tìm số Fibonacci
+Viết một hàm nhận vào một số nguyên dương n. Hãy trả về số Fibonacci thứ n.
+	•	Gợi ý: Dãy Fibonacci là 0, 1, 1, 2, 3, 5, 8, ....
+
+
+Bài tập 11: Đếm ký tự trong chuỗi
+Tạo một chuỗi str = "hello world". Hãy đếm xem:
+	1.	Có bao nhiêu ký tự “l” xuất hiện trong chuỗi.
+	2.	Tổng số ký tự (không tính khoảng trắng).
+
+
+Bài tập 12: Loại bỏ phần tử trùng lặp
+Tạo một mảng numbers = [1, 2, 2, 3, 4, 4, 5]. Hãy loại bỏ các phần tử trùng lặp để mảng chỉ chứa các phần tử duy nhất.
+
+
+
+Bài tập 13: Kiểm tra mảng tăng dần
+Tạo một mảng numbers = [1, 2, 3, 4, 5]. Hãy kiểm tra xem mảng có được sắp xếp theo thứ tự tăng dần hay không.
+
+
+Bài tập 14: Tìm số nhỏ nhất lớn hơn X
+Tạo một mảng numbers = [3, 8, 15, 2, 9] và một số X = 5. Hãy tìm số nhỏ nhất trong mảng nhưng lớn hơn X.
+
+
+Bài tập 15: Kiểm tra tam giác
+Viết một hàm nhận vào ba số nguyên dương a, b, c. Hãy kiểm tra xem chúng có thể là ba cạnh của một tam giác hay không.

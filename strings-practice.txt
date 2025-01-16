@@ -1,6 +1,6 @@
 Tạo một mảng names chứa các chuỗi tên như sau: "Anna", "Bob", "Charlie", "David". Hãy kiểm tra xem:
-	1.	Có ít nhất một tên nào bắt đầu bằng chữ cái “A” hay không?
-	2.	Nếu không, in ra danh sách tất cả các tên không bắt đầu bằng chữ “A”.
+(x)	1.	Có ít nhất một tên nào bắt đầu bằng chữ cái “A” hay không?
+(x)	2.	Nếu không, in ra danh sách tất cả các tên không bắt đầu bằng chữ “A”.
 
 
 Bài tập 1:
